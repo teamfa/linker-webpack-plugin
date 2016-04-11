@@ -1,7 +1,7 @@
 {
   "name": "linker-webpack-plugin",
   "version": "1.0.0",
-  "description": "linker-webpack-plugin",
+  "description": "Inject content inbetween HTML comment tags in any file.",
   "main": "lib/index.js",
   "scripts": {
     "postinstall": "npm run build",
@@ -18,9 +18,11 @@
     "replace",
     "linker",
     "webpack",
+    "sails-linker",
     "html",
     "gulp-html-replace",
     "gulp-linker",
+    "sails-gulp-linker",
     "webpack hash",
     "hash",
     "teamfa"
