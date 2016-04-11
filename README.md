@@ -1,4 +1,7 @@
 # linker-webpack-plugin
+[![NPM version][npm-image]][npm-url]
+[![Build status][travis-image]][travis-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
 > Inject content inbetween HTML comment tags.
 
 `
@@ -89,3 +92,10 @@ plugins: [
 </body>
 </html>
 ```
+
+[npm-image]: https://img.shields.io/npm/v/linker-webpack-plugin.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/linker-webpack-plugin
+[travis-image]: https://img.shields.io/travis/teamfa/linker-webpack-plugin.svg?style=flat-square
+[travis-url]: https://travis-ci.org/teamfa/linker-webpack-plugin
+[daviddm-image]: http://img.shields.io/david/teamfa/linker-webpack-plugin.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/teamfa/linker-webpack-plugin
